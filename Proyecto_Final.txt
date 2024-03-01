@@ -1,0 +1,18 @@
+Yelp es una plataforma de reseñas
+Google posee una plataforma de reseñas integrada en su servicio de localización y mapas, Google Maps.
+ROL
+consultora de data
+QUE HACE
+análisis del mercado estadounidense
+PARA QUIEN
+el cliente es parte de un conglomerado de empresas de restaurantes y afines
+REQUERIMIENTO: 
+análisis detallado de la opinión de los usuarios en Yelp y cruzarlos con los de Google Maps sobre hoteles, restaurantes y otros negocios afines al turismo y ocio,
+COMO
+utilizando análisis de sentimientos
+PARA
+predecir cuáles serán los rubros de los negocios que más crecerán (o decaerán).
+Y SABER 
+dónde es conveniente emplazar los nuevos locales de restaurantes y afines,
+Y TENER 
+un sistema de recomendación de restaurantes para los usuarios de ambas plataformas para darle, al usuario por ejemplo la posibilidad de poder conocer nuevos sabores basados en sus experiencias previas. Pueden cambiar el tipo de comercio (no es necesario que sean restaurantes). "
